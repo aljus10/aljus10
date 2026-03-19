@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aljus10</h1>
+<h1 align="center">Hi , I'm Aljus10</h1>
 <h3 align="center">
-soon-to-be... ahhh I don’t know 😅<br>
-I just build stuff 🚀<br>
-2nd year student 🎓<br><br>
-more importantly… hoping to build that relationship with her 💭
+soon-to-be... ahhh I don’t know⁉️<br>
+I just build stuff <br>
+2nd year student <br><br>
+more importantly… hoping to build that relationship with her
 </h3>
 
 <p align="center">
