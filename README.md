@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Aljus</h1>
-<h3 align="center">Aspiring Software Engineer | Student | Future Builder 🚀</h3>
+<h1 align="center">Hi 👋, I'm Aljus10</h1>
+<h3 align="center">
+soon-to-be... ahhh I don’t know 😅<br>
+I just build stuff 🚀<br>
+2nd year student 🎓<br><br>
+more importantly… hoping to build that relationship with her 💭
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+Software+Engineer;Learning+Everyday;Building+Projects&center=true&width=500&height=50">
