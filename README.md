@@ -12,11 +12,9 @@ more importantly… hoping to build that relationship with her
 
 ---
 
-### 🧠 About Me
+### About Me?
 - 🎓 BSCS Student  
-- 💻 Currently learning programming  
-- 🚀 Goal: Become a skilled Software Engineer  
-- ⚡ Building discipline & consistency  
+- 💻 If not coding i'm sleeping
 
 ---
 
@@ -42,14 +40,6 @@ more importantly… hoping to build that relationship with her
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aljus10&theme=tokyonight" />
 </p>
-
----
-
-### 📌 Goals
-- 📚 Master programming fundamentals  
-- 💡 Build real-world projects  
-- 🧠 Improve problem solving  
-- 🏆 Land a tech career  
 
 ---
 
