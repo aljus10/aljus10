@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aljus</h1>
+<h3 align="center">Aspiring Software Engineer | Student | Future Builder 🚀</h3>
 
-<!--
-**aljus10/aljus10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+Software+Engineer;Learning+Everyday;Building+Projects&center=true&width=500&height=50">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 🎓 BSCS Student  
+- 💻 Currently learning programming  
+- 🚀 Goal: Become a skilled Software Engineer  
+- ⚡ Building discipline & consistency  
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aljus10&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aljus10&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aljus10&theme=tokyonight" />
+</p>
+
+---
+
+### 📌 Goals
+- 📚 Master programming fundamentals  
+- 💡 Build real-world projects  
+- 🧠 Improve problem solving  
+- 🏆 Land a tech career  
+
+---
+
+### 🤝 Connect with Me
+- 📧 aljusfin@gmail.com
