@@ -7,7 +7,7 @@ more importantly… hoping to build that relationship with her
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+Software+Engineer;Learning+Everyday;Building+Projects&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+hacker+HAUHAHA ;Learning+Everyday+Wehh?;Building+Projects&center=true&width=500&height=50">
 </p>
 
 ---
