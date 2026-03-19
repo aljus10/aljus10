@@ -4,7 +4,7 @@
 soon-to-be... something fr<br>
 I just build stuff and hope it works<br>
 2nd year BSCS student surviving on curiosity<br><br>
-and more importantly... hoping to build that relationship with her😁
+and more importantly... to finished building that relationship with her
 </h3
 
 <p align="center">
