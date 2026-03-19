@@ -1,31 +1,38 @@
-<h1 align="center">Hi , I'm Aljus10</h1>
+<h1 align="center">yo, i'm AL Justin</h1>
+
 <h3 align="center">
-soon-to-be... ahhh I don’t know⁉️<br>
-I just build stuff | 2nd year student <br>
- <br><br>
-more importantly… hoping to build that relationship with her
-</h3>
+soon-to-be... something fr<br>
+I just build stuff and hope it works<br>
+2nd year BSCS student surviving on curiosity<br><br>
+and more importantly... hoping to build that relationship with her😁
+</h3
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Future%20hacker%20HAUHAHA+jokelang;Learning%20Everyday%20Wehh%3F;Building%20Projects&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=I+just+build+stuff;2nd+year+BSCS+student;Learning+as+I+go;Probably+debugging+right+now;Trying+to+figure+life+out&center=true&width=600&height=50" />
 </p>
 
 ---
 
-### About Me?
-- 🎓 BSCS Student  
-- 💻 If not coding i'm sleeping
+## a little about me
+
+- BSCS student
+- I make stuff, break stuff, then fix stuff
+- currently learning one error message at a time
+- if I'm not coding, I'm probably sleeping
+- just trying to have fun while still breathing in this adventure called life
 
 ---
 
-### 🛠️ Tech Stack
+## stuff i use
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## the github battlefield
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aljus10&show_icons=true&theme=tokyonight" />
 </p>
@@ -34,14 +41,18 @@ more importantly… hoping to build that relationship with her
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aljus10&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-### 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aljus10&theme=tokyonight" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
-- 📧 aljusfin@gmail.com
+## contact or something
+
+- email: **aljusfin@gmail.com**
+
+---
+
+<p align="center">
+  built with sleep deprivation, random motivation, and delusion
+</p>
