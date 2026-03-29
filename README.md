@@ -16,8 +16,6 @@ I just build stuff and break it<br>
 - BSCS student
 - I make stuff, break stuff, then fix stuff
 - currently learning one error message at a time
-- if I'm not coding, I'm probably sleeping
-- just trying to have fun while still breathing in this adventure called life
 
 ---
 
