@@ -2,9 +2,7 @@
 
 <h3 align="center">
 soon-to-be... something fr<br>
-I just build stuff and hope it works<br>
-2nd year BSCS student surviving on curiosity<br><br>
-and more importantly... to finished building that relationship with her
+I just build stuff and break it<br>
 </h3
 
 <p align="center">
