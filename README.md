@@ -11,13 +11,10 @@ I just build stuff and break it<br>
 
 ---
 
-## a little about me
+## about me
 
 - BSCS student
-- I make stuff, break stuff, then fix stuff
-- currently learning one error message at a time
 
----
 
 ## stuff i use
 
