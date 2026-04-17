@@ -11,15 +11,10 @@ I just build stuff and break it<br>
 
 ---
 
-## about me
-
-- BSCS student
-
-
-## stuff i use
+## stuff 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode,react,next.js" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode,react,next.js,swift,C++" />
 </p>
 
 ---
