@@ -1,4 +1,4 @@
-<h1 align="center">yo, i'm AL Justin</h1>
+<h1 align="center">Hello, i'm AL Justin</h1>
 
 <h3 align="center">
 soon-to-be... something fr<br>
@@ -19,7 +19,7 @@ I just build stuff and break it<br>
 
 ---
 
-## Progress
+## -----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aljus10&show_icons=true&theme=tokyonight" />
