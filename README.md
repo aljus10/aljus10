@@ -11,15 +11,15 @@ I just build stuff and break it<br>
 
 ---
 
-## stuff 
+## Skill
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode,react,next.js,swift,C++" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode,react,next.js,swift,C" />
 </p>
 
 ---
 
-## the github battlefield
+## Progress
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aljus10&show_icons=true&theme=tokyonight" />
